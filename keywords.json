@@ -1,0 +1,50 @@
+{
+  "Frontend Developer": [
+    "react", "javascript", "html", "css", "typescript",
+    "redux", "tailwind", "webpack", "vite",
+    "next.js", "testing library", "jest",
+    "responsive design", "accessibility", "a11y"
+  ],
+  "Backend Developer": [
+    "node", "express", "rest api", "graphql", "mongodb",
+    "postgres", "mysql", "redis", "docker",
+    "authentication", "authorization", "jwt",
+    "orm", "sequelize", "prisma"
+  ],
+  "Full Stack Developer": [
+    "react", "javascript", "node", "express", "mongodb",
+    "postgres", "typescript", "docker", "aws", "html", "css"
+  ],
+  "Data Scientist": [
+    "python", "pandas", "numpy", "scikit-learn",
+    "machine learning", "deep learning",
+    "tensorflow", "pytorch", "sql", "matplotlib", "seaborn", "statistics"
+  ],
+  "DevOps Engineer": [
+    "docker", "kubernetes", "ci/cd", "jenkins",
+    "github actions", "terraform", "aws", "azure", "gcp",
+    "helm", "prometheus", "grafana"
+  ],
+  "UI/UX Designer": [
+    "figma", "sketch", "adobe xd", "wireframe", "prototype",
+    "user research", "usability testing", "personas", "journey maps",
+    "information architecture", "design system",
+    "heuristic evaluation", "a/b testing", "accessibility", "a11y"
+  ],
+  "Mobile App Developer": [
+    "react native", "flutter", "android", "ios",
+    "kotlin", "swift", "dart", "play store", "app store"
+  ],
+  "QA Engineer": [
+    "manual testing", "automation", "selenium", "cypress",
+    "jest", "pytest", "test cases", "bug tracking", "jira", "test plan"
+  ],
+  "Cloud Engineer": [
+    "aws", "azure", "gcp", "cloudformation", "terraform",
+    "iam", "ec2", "s3", "lambda", "vpc", "serverless", "kubernetes"
+  ],
+  "Generic Software Engineer": [
+    "git", "oop", "design patterns", "unit testing",
+    "agile", "scrum", "rest api", "sql", "docker"
+  ]
+}
